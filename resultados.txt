@@ -1,0 +1,8 @@
+
+A Figura 1 indica que existe convergencia para a minimizacao da funcao-custo, permitindo que
+seja encontrada uma solucao otima ou aproximada. Adicionalmente, o grafico reflete a tendencia 
+de toda a populacao a ter o valor percurso minimizado. Tais resultados permitem concluir o bom
+desempenho do algoritmo, com as seguintes ressalvas: o algoritmo apresenta convergencia relativamente 
+prematura (cerca de 400 geracoes), provavelmente associada com o alto elitismo no criterio de selecao; 
+valores distantes do otimo podem ser mesmo encontrados nas ultimas geracoes, em funcao da alta taxa de 
+mutacao empregada. 
